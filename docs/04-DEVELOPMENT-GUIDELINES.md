@@ -68,6 +68,7 @@ Never claim that a static analyzer can always reconstruct runtime behavior. Refl
 
 ## 7. Git and documentation
 - Use small, meaningful commits.
+- Follow the branch and commit convention in the README's "Git workflow" section.
 - Do not commit secrets, generated build output, or local IDE state.
 - Update README and relevant docs when setup or behavior changes.
 - Record accepted architectural decisions in `06-DECISION-LOG.md`.
